@@ -40,3 +40,52 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Angular build artifacts and cache
+dist/
+.tmp/
+.angular/
+
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+*.js
+*.js.map
+
+# TypeScript declaration files
+*.d.ts
+
+# IDE and editor directories and files
+.vscode/
+*.sublime-project
+
+# System files
+
+# Compodoc documentation output
+documentation/
+
+# Angular linting and formatting tools
+.eslintcache
+.prettierignore
+
+# Husky configuration
+.husky/
+
+# Karma test coverage
+coverage/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# dotenv environment variables file
+.env
+
+# Mac specific file
