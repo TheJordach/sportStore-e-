@@ -1,27 +1,52 @@
-# SportStoreE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+<img src="public/images/logo - Copy/logo-no-background.svg"/>
 
-## Development server
+# SportStore-e 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#### About
+ This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-## Code scaffolding
+## Project Description
+> This project is **an Online Product Catalog built with Angular**, that providing a complete e-commerce solution. The application allows customers to :
+* [ ] browse products by category, 
+* [ ] manage their shopping cart, and 
+* [ ] complete their purchases through a checkout process. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> Additionally, it includes 
+* [ ] an administration area for managing the product catalog 
+* [ ] full CRUD capabilities, 
+* [ ]protected by user authentication to ensure only logged-in administrators can make changes. 
 
-## Build
+The project is  deployed on vercel.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Application Features
 
-## Running unit tests
+## Customer Features
+#### Product Catalog
+* Browse products by category.
+* Pagination for easy navigation through products.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Shopping Cart
+* Add products to the cart.
+* Remove products from the cart.
+* View and manage items in the cart.
 
-## Running end-to-end tests
+#### Checkout
+* Enter shipping details.
+* Place orders.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#### Administration Features
+###### Admin Area
+* Create: Add new products to the catalog.
+* Read: View and list all products in the catalog.
+* Update: Modify existing product details.
+* Delete: Remove products from the catalog.
+* User authentication to ensure only logged-in administrators can access and modify the catalog.
 
-## Further help
+#### Additional Features
+* Deployment 
+* complete **visual documentation** 
+* Ai assistance for better customer experience **(upgrade)**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+#### Dependencies
