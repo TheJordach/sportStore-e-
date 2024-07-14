@@ -50,7 +50,7 @@ dist/
 node_modules/
 
 # Compiled TypeScript files
-*.js
+#*.js
 *.js.map
 
 # TypeScript declaration files
