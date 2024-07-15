@@ -75,3 +75,7 @@ The project is deployed on vercel.
 * jsonwebtoken": "^9.0.2",
 * @compodoc/compodoc
 ```
+
+#####
+
+[![wakatime](https://wakatime.com/badge/user/018ebde5-003c-47c2-8ab0-3530226c609b/project/99e6a1b0-0004-454f-bdcf-71280c3afaae.svg)](https://wakatime.com/badge/user/018ebde5-003c-47c2-8ab0-3530226c609b/project/99e6a1b0-0004-454f-bdcf-71280c3afaae)
